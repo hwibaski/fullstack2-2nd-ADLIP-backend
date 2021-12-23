@@ -1,4 +1,4 @@
-### 💻 Thisisnevercode
+### 💻 Adlip, 애드립
 ---
 - 여가 액티비티 플랫폼 Frip을 모티브로한 e-commerce 서비스 프로젝트
 <br>
