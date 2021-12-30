@@ -39,7 +39,7 @@
 
 ### API 문서
 ---
-![API 문서 링크](https://documenter.getpostman.com/view/16343905/UVRGF4cy#b1023f05-c8fe-4796-b10a-215d03f560b4)
+[API 문서 링크](https://documenter.getpostman.com/view/16343905/UVRGF4cy#b1023f05-c8fe-4796-b10a-215d03f560b4)
 <br>
 
 
